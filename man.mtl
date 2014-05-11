@@ -1,0 +1,10 @@
+# MakeHuman exported MTL
+# www.makehuman.org
+
+
+newmtl young_caucasian_female_sweat
+Kd 1 1 1
+Ks 0.2039 0.1843 0.1843
+d 0
+map_Kd textures\young_lightskinned_female_diffuse.png
+map_D textures\young_lightskinned_female_diffuse.png
